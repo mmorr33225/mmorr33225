@@ -1,4 +1,4 @@
-[![Alt Text](https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/GitHubGIF_optimized.gif)](https://morrismichael.com)
+<img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/assets/computer.gif" width="100%"/>
 
 
 <div align="center">
@@ -62,6 +62,6 @@
 
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/Bottom.svg" alt="" />
+        <img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/assets/snake.svg" alt="" />
 
 </p>
