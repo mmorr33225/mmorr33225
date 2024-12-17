@@ -1,4 +1,4 @@
-<img src="https://github.com/mmorr33225/mmorr33225/blob/main/assets/computer.gif" width="100%"/>
+<img src="https://github.com/mmorr33225/mmorr33225/blob/main/assets/ComputerAndCity2.gif" width="100%"/>
 
 
 <div align="center">
