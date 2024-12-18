@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<h3> 👨‍💻 Michael Morris | 💻 Software Engineer | 🌎 Louisiana , USA </h3>
+<h3> 👨‍💻 Michael Morris | 💻 Software Engineer | 🌎 Louisiana, USA </h3>
 </div>
 <p align="center">
   ________________________________________
