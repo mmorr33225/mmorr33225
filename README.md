@@ -2,66 +2,24 @@
 
 
 <div align="center">
-<h3> 👨‍💻 Michael Morris | 💻 Software Engineer | 🌎 Louisiana, USA </h3>
+<h1> 👨‍💻 Michael Morris | 💻 Software Engineer | 🌎 Louisiana, USA </h3>
 </div>
-<p align="center">
-  ________________________________________
+
+# About Me
+### I am a 24-year-old Software Engineer driven by a passion for solving real-world problems. My mission is to bridge connections, empower collaboration, and tackle impactful challenges that make a meaningful difference. 
+### Whether through building innovative applications, optimizing systems, or creating intuitive user experiences, I thrive on delivering solutions that improve everyday life.
+# 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## Languages:
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,java,js,py,mysql,lua,ocaml,swift,css,html)](https://skillicons.dev)
+
+## Other Tools:
+[![My Skills](https://skillicons.dev/icons?i=blender,cloudflare,docker,p5js,ps,unity,vscode,discord,eclipse,figma)](https://skillicons.dev)
+
+## Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=dotnet,bootstrap,react)](https://skillicons.dev)
+
+
+---
 </p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/web.svg" alt="" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/linkedin.svg" alt="" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/email_me.svg" alt="" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/csharp.svg" alt="" style="vertical-align:top; margin:4px">
-</p>
-
-
-<p align="center"> "Never trust someone who doesnt write SQL queries in uppercase"
-  </p>
-  
-### - About Me:
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/hehim.svg" alt="" style="vertical-align:top; margin:4px">
-</p>
-
-
-
-### - What I use every day:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/csharp.svg" alt="" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/csharp_dotnet.svg" alt="" style="vertical-align:top; margin:4px">   
-  <img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/visualstudio.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/visualstudio_code.svg" alt="" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/sql.svg" alt="" style="vertical-align:top; margin:4px">
-</p>
-
-
-
-### - I also use:
-<p align="left">
-<img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/csharp.svg" alt="" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/bootstrap.svg" alt="" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/docker.svg" alt="" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/eclipse.svg" alt="" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/html.svg" alt="" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/java.svg" alt="" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/js.svg" alt="" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/nuget.svg" alt="" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/php.svg" alt="" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/powershell.svg" alt="" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/python.svg" alt="" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/swift.svg" alt="" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/xcode.svg" alt="" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/aws.svg" alt="" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/Badge_svg/office365.svg" alt="" style="vertical-align:top; margin:4px">
-  
-</p>
-<h3 align="center">And more!</h3>
-
-
-
 <p align="center">
         <img src="https://raw.githubusercontent.com/mmorr33225/mmorr33225/main/assets/snake.svg" alt="" />
-
-</p>
